@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394271426095",
+    "project_id": "loja-esdm",
+    "storage_bucket": "loja-esdm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394271426095:android:1248fe2a82e791101628da",
+        "android_client_info": {
+          "package_name": "com.example.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394271426095-64m0hoc3eq8a55jcv6msb6kagquvbjti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ1MxPpHdHXGYj1KmRvITwmDDt-fQpLOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394271426095-64m0hoc3eq8a55jcv6msb6kagquvbjti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
